@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://namu.wiki/w/%EB%89%B4%EC%9A%95
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://namu.wiki/w/%EB%89%B4%EC%9A%95
+IconFile=https://namu.wiki/img/icon.png
+IconIndex=1
